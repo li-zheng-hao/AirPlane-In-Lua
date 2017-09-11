@@ -3,7 +3,6 @@
 下面是运行之后的游戏截图  
 
 ![image](https://github.com/li-zheng-hao/AirPlane-In-Lua/raw/master/testimages/test1.gif)
-![image](https://github.com/li-zheng-hao/AirPlane-In-Lua/raw/master/testimages/test2.gif)
 
 
 
